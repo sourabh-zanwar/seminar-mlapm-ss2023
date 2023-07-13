@@ -1,0 +1,5 @@
+Baseline:
+Total Weighted Sum: = 2695
+Total Computation Time = 60.09538125991821
+Prediction Time = 56.23630928993225
+Optimization Time = 3.859071969985962

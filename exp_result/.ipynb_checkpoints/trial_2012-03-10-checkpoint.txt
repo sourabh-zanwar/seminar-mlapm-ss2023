@@ -1,0 +1,12 @@
+Baseline:
+Weighted Completion Time = 2489
+Computation Time = 59.48367977142334
+
+Test path: sample_data/real/modi_BPI_2012_2012-03-10.csv, 
+Alpha: 1.0,
+Beta: 1.0,
+Total Weighted Sum: 1880,
+Total Computation Time: 2465.2686388492584,
+Total Prediction Time: 2456.9738597869873,
+Total Optimitation Time: 8.294779062271118,
+Precision (in%): 0.0

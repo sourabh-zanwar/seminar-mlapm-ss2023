@@ -1,0 +1,8 @@
+Test path: sample_data/real/modi_BPI_2012_2012-03-01.csv, 
+Alpha: 1.0,
+Beta: 1.0,
+Total Weighted Sum: 3816,
+Total Computation Time: 10019.579254865646,
+Total Prediction Time: 10011.218560218811,
+Total Optimitation Time: 8.360694646835327,
+Precision (in%): 0.0

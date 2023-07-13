@@ -1,0 +1,4 @@
+Total Weighted Sum: 807,
+Total Computation Time: 3308.930815219879,
+Total Prediction Time: 3303.125853061676,
+Total Optimitation Time: 5.804962158203125
